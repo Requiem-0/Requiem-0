@@ -1,38 +1,33 @@
 <div align="center">
 
-<br>
+<img src="banner.svg" width="100%" alt="Rikesh Gurung — flutter developer, director in training, archive obsessive"/>
 
-```
-R I K E S H   G U R U N G
-```
+<br/>
+<br/>
 
-*flutter developer — director in training — archive obsessive*
-
-<br>
-
-![](https://img.shields.io/badge/flutter-primary-000?style=flat-square&labelColor=000&color=111)
-![](https://img.shields.io/badge/dart-proficient-000?style=flat-square&labelColor=000&color=222)
-![](https://img.shields.io/badge/nepal-UTC%2B5%3A45-000?style=flat-square&labelColor=000&color=333)
+![Flutter](https://img.shields.io/badge/Flutter-primary-ffffff?style=flat-square&logo=flutter&logoColor=white&labelColor=000000&color=111111)
+![Dart](https://img.shields.io/badge/Dart-proficient-ffffff?style=flat-square&logo=dart&logoColor=white&labelColor=000000&color=222222)
+![Nepal](https://img.shields.io/badge/Nepal-KTM%20%C2%B7%20UTC%2B5%3A45-ffffff?style=flat-square&logo=googlemaps&logoColor=white&labelColor=000000&color=333333)
 
 </div>
 
 ---
 
-<br>
+<br/>
 
 ```
 001 — IDENTITY
 ```
 
-**Requiem-0.**  
+**Requiem-0.**
 Flutter developer. Aspiring director. Fashion archivist by instinct.
 
-Building mobile experiences the way good clothes are made —  
+Building mobile experiences the way good clothes are made —
 invisible construction, felt entirely.
 
 Kathmandu, Nepal · student · always shipping
 
-<br>
+<br/>
 
 ```
 002 — SELECTED WORKS
@@ -47,7 +42,7 @@ Kathmandu, Nepal · student · always shipping
 | SS23 | **[MangaWebsite](https://github.com/Requiem-0/MangaWebsite)** | `Java` | hamro manga ko website |
 | — | **[JouranalApp](https://github.com/Requiem-0/JouranalApp)** | `HTML` `.NET MAUI Blazor` | coursework — hybrid journal, web + native |
 
-<br>
+<br/>
 
 ```
 003 — CURRENTLY
@@ -56,11 +51,11 @@ Kathmandu, Nepal · student · always shipping
 ```
 building   →   BakeryApp
 watching   →   Wong Kar-Wai
-wearing    →   Denim pieces 
+wearing    →   Denim pieces
 listening  →   TheNBHD, 2Hollis
 ```
 
-<br>
+<br/>
 
 ```
 004 — STACK
@@ -74,8 +69,7 @@ responsive layouts · Firebase · REST APIs
 
 **web + backend**
 ```
-Node.js · HTML · .NET MAUI Blazor
-Java · C++
+Node.js · HTML · .NET MAUI Blazor · Java · C++
 ```
 
 **creative**
@@ -84,30 +78,34 @@ video editing · directing · fashion archiving
 color grading · visual storytelling · art direction
 ```
 
-<br>
+<br/>
 
 ```
 005 — AXIS
 ```
 
-A mobile developer and a film director do the same thing:  
+A mobile developer and a film director do the same thing:
 *constrain the frame until only what matters remains.*
 
-Every widget is a decision.  
-Every cut is a decision.  
+Every widget is a decision.
+Every cut is a decision.
 Both disciplines taught me to be ruthless about what stays.
 
-<br>
+<br/>
 
 ```
 006 — CONTACT
 ```
 
-[![github](https://img.shields.io/badge/github-Requiem--0-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Requiem-0)
-[![instagram](https://img.shields.io/badge/instagram-→-000?style=flat-square)](https://www.instagram.com/icedamericanodoubleshot/)
-[![email](https://img.shields.io/badge/email-→-000?style=flat-square)](mailto:0requiem09@gmail.com)
+<div align="left">
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Requiem--0-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=111111)](https://github.com/Requiem-0)
+[![Instagram](https://img.shields.io/badge/Instagram-icedamericanodoubleshot-ffffff?style=flat-square&logo=instagram&logoColor=white&labelColor=000000&color=111111)](https://www.instagram.com/icedamericanodoubleshot/)
+[![Email](https://img.shields.io/badge/Email-0requiem09%40gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=white&labelColor=000000&color=111111)](mailto:0requiem09@gmail.com)
+
+</div>
+
+<br/>
 
 ---
 
@@ -115,8 +113,8 @@ Both disciplines taught me to be ruthless about what stays.
 
 <sub>*the work speaks. the silence speaks louder.*</sub>
 
-<br>
+<br/>
 
-![](https://komarev.com/ghpvc/?username=Requiem-0&style=flat-square&color=000000&label=)
+![Profile views](https://komarev.com/ghpvc/?username=Requiem-0&style=flat-square&color=111111&label=profile+views&abbreviated=true)
 
 </div>
