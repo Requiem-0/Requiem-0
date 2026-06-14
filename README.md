@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Rikesh Gurung — flutter developer, director in training, archive obsessive"/>
+<img src="banner.svg" width="100%" alt="Rikesh Gurung — Pokhara · flutter developer · director · archive"/>
 
 <br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-primary-fff?style=flat-square&logo=flutter&logoColor=white&labelColor=000&color=111)
 ![Dart](https://img.shields.io/badge/Dart-proficient-fff?style=flat-square&logo=dart&logoColor=white&labelColor=000&color=111)
-![Nepal](https://img.shields.io/badge/Nepal-KTM_·_UTC%2B5:45-fff?style=flat-square&logo=googlemaps&logoColor=white&labelColor=000&color=111)
+![Time in KTM](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=000&color=111&logo=clockify&logoColor=white&label=Pokhara+time&query=%24.datetime&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKathmandu&suffix=+UTC%2B5%3A45)
 
 </div>
 
@@ -24,7 +24,7 @@ Flutter developer. Aspiring director. Fashion archivist by instinct.
 Building mobile experiences the way good clothes are made —
 invisible construction, felt entirely.
 
-Kathmandu, Nepal · student · always shipping
+Pokhara, Nepal · student · always shipping
 
 <br/>
 
@@ -89,8 +89,8 @@ color grading · visual storytelling · art direction
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Requiem-0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=666666&icon_color=ffffff&include_all_commits=true&count_private=true&custom_title=output&rank_icon=github" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Requiem-0&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=666666&langs_count=6&custom_title=material&exclude_repo=JouranalApp&hide=jupyter+notebook,cmake,makefile,shell" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Requiem-0&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&custom_title=output&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Requiem-0&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=555555&langs_count=6&custom_title=material&hide=jupyter+notebook,cmake,makefile,shell" />
 
 </div>
 
@@ -98,7 +98,7 @@ color grading · visual storytelling · art direction
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Requiem-0&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=aaaaaa&currStreakLabel=666666&sideLabels=666666&dates=444444&stroke=222222&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Requiem-0&theme=dark&hide_border=true&background=050505&ring=ffffff&fire=888888&currStreakLabel=555555&sideLabels=555555&dates=333333&stroke=111111&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -106,7 +106,7 @@ color grading · visual storytelling · art direction
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Requiem-0&bg_color=0d1117&color=666666&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=activity+·+last+12+months" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Requiem-0&bg_color=050505&color=444444&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=activity+·+last+12+months" />
 
 </div>
 
