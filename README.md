@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Rikesh Gurung — Pokhara · flutter developer · director · archive"/>
+<img src="banner(1).svg" width="100%" alt="Rikesh Gurung — Pokhara · flutter developer · director · archive"/>
 
 <br/>
 
