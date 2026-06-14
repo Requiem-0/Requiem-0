@@ -19,7 +19,7 @@
 ```
 
 **Requiem-0.**
-Flutter developer. Aspiring director. Fashion archivist by instinct.
+Flutter developer. Aspiring director.
 
 Building mobile experiences the way good clothes are made —
 invisible construction, felt entirely.
@@ -118,7 +118,7 @@ color grading · visual storytelling · art direction
 005 — AXIS
 ```
 
-A mobile developer and a film director do the same thing:
+A mobile developer:
 *constrain the frame until only what matters remains.*
 
 Every widget is a decision.
