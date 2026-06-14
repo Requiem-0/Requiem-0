@@ -1,0 +1,117 @@
+<svg width="860" height="340" viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg">
+<rect width="860" height="340" fill="#050505"/>
+
+<!-- torn photo block top left -->
+<g transform="translate(52,30) rotate(-2)">
+  <rect width="160" height="110" fill="#111" stroke="#fff" stroke-width="0.4" stroke-opacity="0.3"/>
+  <rect x="6" y="6" width="148" height="98" fill="#0a0a0a"/>
+  <polygon points="20,92 60,28 80,50 100,24 140,92" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.5"/>
+  <polygon points="60,28 68,42 74,34 80,50 86,38 92,30 100,24 90,36 80,46 70,36" fill="#fff" fill-opacity="0.12"/>
+  <text x="8" y="106" font-family="monospace" font-size="7" fill="#fff" fill-opacity="0.25" letter-spacing="1">Machhapuchhre · 6993m</text>
+</g>
+
+<!-- film strip right -->
+<g transform="translate(700,20)">
+  <rect width="120" height="180" fill="#0d0d0d" stroke="#fff" stroke-width="0.4" stroke-opacity="0.2"/>
+  <rect x="6" y="10" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="6" y="30" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="6" y="50" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="6" y="70" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="6" y="90" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="6" y="110" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="106" y="10" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="106" y="30" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="106" y="50" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="106" y="70" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="106" y="90" width="8" height="12" rx="1" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <rect x="18" y="8" width="84" height="55" fill="#111"/>
+  <path d="M30,35 Q45,24 60,28 Q75,24 82,35 Q60,44 30,35Z" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+  <line x1="56" y1="35" x2="56" y2="48" stroke="#fff" stroke-width="0.4" stroke-opacity="0.35"/>
+  <ellipse cx="56" cy="50" rx="3" ry="2" fill="#fff" fill-opacity="0.3"/>
+  <rect x="18" y="70" width="84" height="55" fill="#0e0e0e"/>
+  <line x1="18" y1="100" x2="102" y2="100" stroke="#fff" stroke-width="0.4" stroke-opacity="0.3"/>
+  <polygon points="30,100 55,78 62,86 70,74 95,100" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.35"/>
+  <text x="20" y="118" font-family="monospace" font-size="6" fill="#fff" fill-opacity="0.2">Fewa Lake</text>
+  <rect x="18" y="130" width="84" height="42" fill="#0c0c0c"/>
+  <text x="22" y="148" font-family="monospace" font-size="7" fill="#fff" fill-opacity="0.18" letter-spacing="1">Pokhara</text>
+  <text x="22" y="160" font-family="monospace" font-size="7" fill="#fff" fill-opacity="0.12" letter-spacing="1">827m · NP</text>
+</g>
+
+<!-- torn photo bottom left -->
+<g transform="translate(48,220) rotate(1.5)">
+  <rect width="130" height="90" fill="#0e0e0e" stroke="#fff" stroke-width="0.4" stroke-opacity="0.25"/>
+  <rect x="10" y="30" width="25" height="52" fill="none" stroke="#fff" stroke-width="0.4" stroke-opacity="0.3"/>
+  <rect x="40" y="20" width="20" height="62" fill="none" stroke="#fff" stroke-width="0.4" stroke-opacity="0.3"/>
+  <rect x="65" y="38" width="18" height="44" fill="none" stroke="#fff" stroke-width="0.4" stroke-opacity="0.3"/>
+  <rect x="88" y="25" width="26" height="57" fill="none" stroke="#fff" stroke-width="0.4" stroke-opacity="0.3"/>
+  <rect x="14" y="36" width="6" height="5" fill="#fff" fill-opacity="0.08"/>
+  <rect x="14" y="46" width="6" height="5" fill="#fff" fill-opacity="0.08"/>
+  <rect x="44" y="28" width="5" height="4" fill="#fff" fill-opacity="0.08"/>
+  <text x="8" y="86" font-family="monospace" font-size="6.5" fill="#fff" fill-opacity="0.2" letter-spacing="1">New Road · PKR</text>
+</g>
+
+<!-- FEWA LAKE band -->
+<rect x="0" y="268" width="860" height="72" fill="#080808"/>
+<line x1="0" y1="268" x2="860" y2="268" stroke="#fff" stroke-width="0.7" stroke-opacity="0.3"/>
+<line x1="60" y1="280" x2="320" y2="280" stroke="#fff" stroke-width="0.3" stroke-opacity="0.1"/>
+<line x1="80" y1="289" x2="280" y2="289" stroke="#fff" stroke-width="0.3" stroke-opacity="0.07"/>
+<line x1="480" y1="276" x2="700" y2="276" stroke="#fff" stroke-width="0.3" stroke-opacity="0.09"/>
+<line x1="500" y1="285" x2="680" y2="285" stroke="#fff" stroke-width="0.3" stroke-opacity="0.06"/>
+
+<!-- Machhapuchhre silhouette -->
+<polygon points="340,268 392,118 418,155 428,268" fill="#0d0d0d" stroke="#fff" stroke-width="0.6" stroke-opacity="0.45"/>
+<polygon points="392,118 430,268 468,268 445,88 420,118" fill="#0a0a0a" stroke="#fff" stroke-width="0.6" stroke-opacity="0.45"/>
+<polygon points="406,116 415,103 424,116 418,126 412,126" fill="#050505"/>
+<polygon points="392,118 402,138 416,126 408,108" fill="#fff" fill-opacity="0.1"/>
+<polygon points="418,118 416,126 436,112 445,88 430,105" fill="#fff" fill-opacity="0.07"/>
+<polygon points="340,268 392,310 418,295 428,268" fill="#fff" fill-opacity="0.025"/>
+<polygon points="392,310 430,268 468,268 445,308 420,295" fill="#fff" fill-opacity="0.02"/>
+
+<!-- Annapurna background ridge -->
+<polyline points="0,210 50,202 90,195 140,200 190,188 240,194 290,182 320,185 338,180" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.1"/>
+<polyline points="470,180 510,173 560,180 610,165 660,172 695,162" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.1"/>
+
+<!-- structural grid -->
+<line x1="0" y1="58" x2="860" y2="58" stroke="#fff" stroke-width="0.3" stroke-opacity="0.08"/>
+<line x1="0" y1="175" x2="300" y2="175" stroke="#fff" stroke-width="0.8" stroke-opacity="0.3"/>
+<line x1="560" y1="175" x2="860" y2="175" stroke="#fff" stroke-width="0.8" stroke-opacity="0.3"/>
+
+<!-- paragliders -->
+<path d="M280,65 Q296,55 315,58 Q334,55 342,65 Q315,75 280,65Z" fill="none" stroke="#fff" stroke-width="0.7" stroke-opacity="0.4"/>
+<line x1="311" y1="65" x2="311" y2="80" stroke="#fff" stroke-width="0.5" stroke-opacity="0.32"/>
+<ellipse cx="311" cy="82" rx="3" ry="2" fill="#fff" fill-opacity="0.32"/>
+<path d="M500,45 Q511,37 523,40 Q535,37 543,45 Q523,53 500,45Z" fill="none" stroke="#fff" stroke-width="0.5" stroke-opacity="0.28"/>
+<line x1="521" y1="45" x2="521" y2="57" stroke="#fff" stroke-width="0.4" stroke-opacity="0.22"/>
+<ellipse cx="521" cy="58" rx="2" ry="1.5" fill="#fff" fill-opacity="0.22"/>
+<path d="M590,80 Q597,74 607,76 Q617,74 622,80 Q607,86 590,80Z" fill="none" stroke="#fff" stroke-width="0.4" stroke-opacity="0.22"/>
+<line x1="605" y1="80" x2="605" y2="89" stroke="#fff" stroke-width="0.3" stroke-opacity="0.18"/>
+
+<!-- ghost R watermark -->
+<text x="200" y="265" font-family="Georgia, serif" font-size="260" font-weight="700" fill="#fff" fill-opacity="0.025" letter-spacing="-8">R</text>
+
+<!-- MAIN NAME -->
+<text x="200" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="105" font-weight="700" fill="#ffffff" fill-opacity="0.97" letter-spacing="-3">Rikesh</text>
+<text x="295" y="265" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="400" font-style="italic" fill="#ffffff" fill-opacity="0.72" letter-spacing="-2">Gurung</text>
+
+<!-- overprint label -->
+<text x="201" y="168" font-family="monospace" font-size="8" fill="#fff" fill-opacity="0.22" letter-spacing="5">flutter dev · director · archive</text>
+<line x1="200" y1="172" x2="500" y2="172" stroke="#fff" stroke-width="0.3" stroke-opacity="0.15"/>
+
+<!-- coordinates -->
+<text x="222" y="330" font-family="monospace" font-size="8" fill="#fff" fill-opacity="0.2" letter-spacing="3">28.2°N 83.9°E · Pokhara · 827m asl</text>
+<text x="240" y="38" font-family="monospace" font-size="9" fill="#fff" fill-opacity="0.25" letter-spacing="3">Requiem-0</text>
+
+<!-- accent squares -->
+<rect x="226" y="58" width="14" height="14" fill="#fff" fill-opacity="0.55"/>
+<rect x="244" y="58" width="6" height="6" fill="#fff" fill-opacity="0.2"/>
+<rect x="254" y="58" width="3" height="3" fill="#fff" fill-opacity="0.12"/>
+
+<!-- vertical text -->
+<g transform="translate(690,240) rotate(-90)">
+  <text font-family="monospace" font-size="7.5" fill="#fff" fill-opacity="0.15" letter-spacing="3" text-anchor="middle">paragliding capital of the world</text>
+</g>
+
+<!-- bottom right bracket -->
+<line x1="820" y1="268" x2="850" y2="268" stroke="#fff" stroke-width="0.8" stroke-opacity="0.35"/>
+<line x1="820" y1="268" x2="820" y2="300" stroke="#fff" stroke-width="0.8" stroke-opacity="0.35"/>
+</svg>
