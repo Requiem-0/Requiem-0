@@ -6,7 +6,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-primary-fff?style=flat-square&logo=flutter&logoColor=white&labelColor=000&color=111)
 ![Dart](https://img.shields.io/badge/Dart-proficient-fff?style=flat-square&logo=dart&logoColor=white&labelColor=000&color=111)
-![Time in KTM](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=000&color=111&logo=clockify&logoColor=white&label=Pokhara+time&query=%24.datetime&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKathmandu&suffix=+UTC%2B5%3A45)
+![Location](https://img.shields.io/badge/Pokhara-UTC%2B5%3A45-fff?style=flat-square&logo=googlemaps&logoColor=white&labelColor=000&color=111)
 
 </div>
 
@@ -24,7 +24,7 @@ Flutter developer. Aspiring director.
 Building mobile experiences the way good clothes are made —
 invisible construction, felt entirely.
 
-Pokhara, Nepal · student · always shipping
+📍 Pokhara, Nepal · 🎓 student · 🚀 always shipping
 
 <br/>
 
@@ -37,7 +37,7 @@ Pokhara, Nepal · student · always shipping
 | SS25 | **RedStringDatingApp** *(private)* | `Flutter` `Dart` `Node.js` | FYP — full-stack dating app w/ admin panel + AI verification |
 | FW24 | **[shoppinApp](https://github.com/Requiem-0/shoppinApp)** | `Dart` `Flutter` | built during summer class. clean, fast, intentional |
 | SS24 | **[BakeryApp](https://github.com/Requiem-0/BakeryApp)** | `Dart` `Flutter` | mobile-first bakery ordering experience |
-| FW23 | **[weatherApp](https://github.com/Requiem-0/weatherApp)** | `C++` | minimalist. 2 pages. location-aware. nothing more |
+| FW23 | **[weatherApp](https://github.com/Requiem-0/weatherApp)** | `C++` | minimalist. 2 pages. location-aware |
 | SS23 | **[MangaWebsite](https://github.com/Requiem-0/MangaWebsite)** | `Java` | hamro manga ko website |
 | — | **[JouranalApp](https://github.com/Requiem-0/JouranalApp)** | `HTML` `.NET MAUI Blazor` | coursework — hybrid journal, web + native |
 
@@ -47,12 +47,7 @@ Pokhara, Nepal · student · always shipping
 003 — CURRENTLY
 ```
 
-```
-building   →   BakeryApp
-watching   →   Wong Kar-Wai
-wearing    →   Denim pieces
-listening  →   TheNBHD, 2Hollis
-```
+🛠️ building `BakeryApp` · 🎬 watching `Wong Kar-Wai` · 👖 wearing `denim` · 🎧 `TheNBHD, 2Hollis`
 
 <br/>
 
@@ -60,37 +55,33 @@ listening  →   TheNBHD, 2Hollis
 004 — STACK
 ```
 
-**mobile**
-```
-Flutter · Dart · state management · custom animations
-responsive layouts · Firebase · REST APIs
-```
+<div align="center">
 
-**web + backend**
-```
-Node.js · HTML · .NET MAUI Blazor · Java · C++
-```
+![Flutter](https://img.shields.io/badge/Flutter-fff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000&color=111)
+![Dart](https://img.shields.io/badge/Dart-fff?style=for-the-badge&logo=dart&logoColor=white&labelColor=000&color=111)
+![Firebase](https://img.shields.io/badge/Firebase-fff?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000&color=111)
+![NodeJS](https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000&color=111)
+![Java](https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000&color=111)
+![C++](https://img.shields.io/badge/C%2B%2B-fff?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000&color=111)
+![DotNet](https://img.shields.io/badge/.NET%20MAUI-fff?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000&color=111)
+![DaVinci](https://img.shields.io/badge/DaVinci%20Resolve-fff?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=000&color=111)
 
-**creative**
-```
-video editing · directing · fashion archiving
-color grading · visual storytelling · art direction
-```
+</div>
 
 <br/>
 
 ---
 
 ```
-007 — METRICS
+005 — METRICS
 ```
 
 <br/>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Requiem-0&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&custom_title=output&rank_icon=github" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Requiem-0&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=555555&langs_count=6&custom_title=material&hide=jupyter+notebook,cmake,makefile,shell" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Requiem-0&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&custom_title=output&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Requiem-0&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=555555&langs_count=6&custom_title=material&hide=jupyter+notebook,cmake,makefile,shell" />
 
 </div>
 
@@ -104,31 +95,19 @@ color grading · visual storytelling · art direction
 
 <br/>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Requiem-0&bg_color=050505&color=444444&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=activity+·+last+12+months" />
-
-</div>
-
-<br/>
-
 ---
 
 ```
-005 — AXIS
+006 — AXIS
 ```
 
-A mobile developer:
-*constrain the frame until only what matters remains.*
-
-Every widget is a decision.
-Every cut is a decision.
-Both disciplines taught me to be ruthless about what stays.
+*Constrain the frame until only what matters remains.*
+Every widget is a decision. Every cut is a decision. Both disciplines taught me to be ruthless about what stays.
 
 <br/>
 
 ```
-006 — CONTACT
+007 — CONTACT
 ```
 
 <div align="left">
